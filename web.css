@@ -1,0 +1,138 @@
+@media screen and (min-width: 1400px){
+
+
+    .menu{
+        position: absolute;
+        top: 5%;
+        left: 20%;
+        flex-wrap: wrap;
+    }
+    
+    .logo{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    hr{
+        border-color: yellow;             
+        flex-wrap: wrap;
+        height: 100%;
+        margin-top: 3%;
+        margin-left: 1%;        
+        margin-right: 0%;
+    }
+    
+    .nvbarra{
+        
+        color: black;
+        flex-wrap: wrap;
+    
+    
+    }
+    .nvbarra ul{
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        text-decoration: none;
+        
+       
+        
+    }
+    
+    .nvbarra li{
+        margin-inline: 35px;
+        text-decoration: none;
+        flex-wrap: wrap;
+    }
+    
+    .nvbarra ul li a{
+        color: black;
+        font-size: 125%;
+        text-decoration: none;
+        font-family: Arial, Helvetica, sans-serif;
+        flex-wrap: wrap;
+    
+    }
+    
+    .nvbarra2 {
+        background-color: #f0f0f0; /* Fondo gris claro */
+        overflow: hidden;
+    }
+    
+    /* Estilo de la lista sin viñetas y alineación horizontal */
+    .nvbarra2 ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    
+    
+    .nvbarra2 li {
+        margin: 0.5%;
+    }
+    
+    
+    .nvbarra2 a {
+        display: block;
+        color: #1a73e8; 
+        background-color: #e0e0e0; 
+        padding: 10px 15px;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 14px;
+        border-radius: 3px;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+    
+    
+    
+    
+    .nvbarra2 .cartelera a {
+        background-color: #1a73e8; 
+        flex-wrap: wrap;
+        color: white; 
+    }
+    .ordenar {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 10px;
+    }
+    
+    
+    .ordenar .texto {
+        padding: 8px 10px;
+        background-color: white; 
+        color: #1a73e8;
+        font-weight: bold;
+        border: 1px solid #d0d0d0;
+        text-align: center;
+    }
+    
+    
+    .ordenar .boton {
+        display: inline-block;
+        padding: 8px 10px;
+        background-color: #e0e0e0;
+        color: #1a73e8;
+        text-decoration: none;
+        font-weight: bold;
+        border: 1px solid #d0d0d0;
+        text-align: center;
+    }
+    
+    
+    .ordenar .activo {
+        background-color: #1a73e8;
+        color: white;
+        border-color: #1a73e8;
+    }
+
+
+
+
+}
