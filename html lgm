@@ -1,0 +1,96 @@
+html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tarea4</title>
+    <link rel="stylesheet" href="../css/web.css">
+    <link rel="stylesheet" href="../css/tablet.css">
+    <link rel="stylesheet" href="../css/movil.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" >
+
+</head>
+<body>
+    
+    <img class="logo" src="../imagenes/logo.PNG" alt="logo">
+    
+    <div class="menu">
+        <nav class="nvbarra">
+        
+            <ul>
+    
+        
+                <li><a href="">Cines</a></li>
+    
+            
+                <li><a href="">Películas</a></li>
+                
+                
+    
+                <li><a href="">Eventos</a></li>
+                
+    
+                <li><a href="">Promos</a></li>
+    
+                
+                <li><a href="">Cinesa Luxe</a></li>
+    
+                
+                <li><a href="">MyCINESA</a></li>
+    
+    
+                <li><a href="">Business</a></li>
+            </ul>
+        </nav>
+        <hr>
+    
+    </div>
+        
+    <nav class="nvbarra2">
+            
+            <ul>
+    
+        
+                <li class="estrenos"><a href="">ESTRENOS</a></li>
+    
+            
+                <li class="cartelera"><a href="">CARTELERA</a></li>
+                
+                
+    
+                <li class="prox"><a href="">PRÓXIMOS</a></li>
+                
+    
+                <li class="imax"><a href="">iMAX</a></li>
+    
+                
+                <li class="isense"><a href="">ISENSE</a></li>
+    
+                
+                <li class="dc"><a href="">DOBLY CINEMA</a></li>
+    
+    
+                <li class="sx"><a href="">SCREENX</a></li>
+    
+                <li class="wc"><a href="">WHATSCINE</a></li>
+    
+                <li class="infantil"><a href="">INFANTIL</a></li>
+    
+                <li class="ciclos"><a href="">CICLOS</a></li>
+            </ul>
+            <div class="ordenar">
+                <div class="texto">Ordenar por</div>
+                <a href="#" class="boton activo">TOP PELÍCULAS</a>
+                <a href="#" class="boton">A-Z</a>
+            </div>
+        </nav>
+        </nav>
+
+    
+    
+    
+    
+</body>
+</html>
